@@ -1,5 +1,5 @@
 # ECommerceSystem 
-This was the major project for my CPS-209 over the 2022 Winter which simulates a simple ECommerce System
+This was the major project for my CPS-209 over the 2022 Winter semester which simulates a simple ECommerce System
 
 -> Some features include:
   1. Create and delete customer profiles which includes their names and addresses. 
