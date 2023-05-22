@@ -1,0 +1,55 @@
+COMPUTERS
+Acer Laptop
+989.0
+99
+
+FURNITURE
+Apex Desk
+1378.0
+12
+
+BOOKS
+Book
+45.0
+4 2
+Ahm Gonna Make You Learn:T. McInerney:2021
+CLOTHING
+DadBod Jeans
+24.0
+50
+
+CLOTHING
+Polo High Socks
+5.0
+199
+
+CLOTHING
+Tightie Whities
+15.0
+99
+
+BOOKS
+Book
+35.0
+4 2
+How to Fool Your Prof:D. Umbast:1997
+BOOKS
+Book
+45.0
+4 2
+How to Escape from Prison:A. Fugitive:1963
+BOOKS
+Book
+45.0
+4 2
+How to Teach Programming:T. McInerney:2001
+GENERAL
+Rock Hammer
+10.0
+22
+
+BOOKS
+Book
+45.0
+4 2
+Ahm Gonna Make You Learn More:T. McInerney:2022
